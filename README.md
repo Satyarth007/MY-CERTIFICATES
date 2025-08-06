@@ -6,6 +6,9 @@
 ## EY Cybersecurtiy Course
 ![cybersecurity](EY_Certificate.jpg)
 
+## Git and GitHub Mastery
+![DSA](github_certificate_image.jpg)
+
 ## Coding Ninja Capture the Flag
 ![DSA](CTF.png)
 
