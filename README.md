@@ -19,4 +19,4 @@
 ![ai](MachineLearning.png)
 
 ## Python 3 Ulitmate Course
-![python3]Python3_certificate_image.jpg)
+![python3](Python3_certificate_image.jpg)
