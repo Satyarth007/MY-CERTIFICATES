@@ -9,6 +9,12 @@
 ## Git and GitHub Mastery
 ![DSA](github_certificate_image.jpg)
 
+## Web Development
+![DSA](Web_Dev_Certificate_image.jpg)
+
+## Web Development Workshop GDSC
+![DSA](GDSC%20DEVTOWN.pdf)
+
 ## Coding Ninja Capture the Flag
 ![DSA](CTF.png)
 
