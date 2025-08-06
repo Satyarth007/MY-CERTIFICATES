@@ -4,13 +4,14 @@
 ![DSA](dsa_certificate_java_jpg.jpg)
 
 ## EY Cybersecurtiy Course
-![DSA](EY_Certificate.jpg)
+![cybersecurity](EY_Certificate.jpg)
 
 ## Coding Ninja Capture the Flag
 ![DSA](CTF.png)
 
 ## Web Development Workshop
-![DSA]("web dev fablab.jpg")
+![Web dev](web%20dev%20fablab.jpg)
+
 
 ## Machine Learning AI Workshop
-![DSA](MachineLearning.png)
+![ai](MachineLearning.png)
