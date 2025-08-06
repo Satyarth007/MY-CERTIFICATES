@@ -10,7 +10,7 @@
 ![DSA](CTF.png)
 
 ## Web Development Workshop
-![DSA](web dev fablab.jpg)
+![DSA]("web dev fablab.jpg")
 
 ## Machine Learning AI Workshop
 ![DSA](MachineLearning.png)
