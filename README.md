@@ -23,3 +23,6 @@
 
 ## Python 3 Ulitmate Course
 ![python3](Python3_certificate_image.jpg)
+
+## Interview Preps
+![sachin](interview_sachin_course.jpg)
