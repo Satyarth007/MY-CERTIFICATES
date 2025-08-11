@@ -18,6 +18,9 @@
 ## Web Development Workshop
 ![Web dev](web%20dev%20fablab.jpg)
 
+## GDSC Workshop
+![ai](GDSC%20DEVTOWN-1.jpg)
+
 ## Machine Learning AI Workshop
 ![ai](MachineLearning.png)
 
